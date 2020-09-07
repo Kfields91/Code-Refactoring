@@ -55,7 +55,7 @@ p {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url(../uw-sea-fsf-pt-08-2020-u-c/class-content/01-HTML-Git-CSS/02-Homework/Develop/assets/images/digital-marketing-meeting.jpg);
+  background-image: url(./assets/images/digital-marketing-meeting.jpg);
   background-size: cover;
   background-position: center;
 }
