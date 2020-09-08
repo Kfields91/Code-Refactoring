@@ -5,7 +5,7 @@ The goal of this project was to maintain functionality of the page while making 
 In order to begin refactoring the original code for this project I needed to understand a few things first:
 1. The layout of the html and css code
 2. How to incorporate semantic html 
-3. The purpose of using semantic tags in cod
+3. The purpose of using semantic tags in code
 4. what is refactoring
 
 I've made a series of commits showing portions of my process while refactoring. Inside you'll find comments about changes and parts of my thought process along the way!
